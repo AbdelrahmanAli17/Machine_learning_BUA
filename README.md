@@ -154,7 +154,7 @@ colab
 
 ### Communication Channels
 - **Teams**: (https://teams.microsoft.com/l/team/19%3AS87T2IRiU_DCcfd-rEnitRgIDvAAwIlPpfNYD_YHmao1%40thread.tacv2/conversations?groupId=d3baa58f-53b7-47d4-9b65-450e8dd87b44&tenantId=41a3e666-3483-48b1-8743-c2b7316e7291/)
-- **Email**: instructor@university.edu
+- **Email**: abdelrahman.gamal@bua.edu.eg
 - **Issues**: Use GitHub Issues for technical problems
 
 ## ❓ Frequently Asked Questions
